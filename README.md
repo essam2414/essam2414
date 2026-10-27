@@ -22,7 +22,6 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 <h4 align="center"><a href="https://aikidsclub.info/">AI Kids Club</a> <em>(Under Development)</em></h4>
 
-<p align="center"><em>Tech Stack:</em> Next.js, TypeScript, Supabase (PostgreSQL), Tailwind CSS, Vercel</p>
 
 <p align="center"> A gamified web learning platform designed to teach children and young learners aged 7?18 the fundamentals of artificial intelligence through interactive, mission-based challenges, engaging 2D avatar systems, and dynamic progress maps.</p>
 
@@ -34,7 +33,6 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 <h4 align="center"><a href="https://github.com/essam2414/Med-Assist">Med-Assist (AI Clinical Online Consultation App)</a></h4>
 
-<p align="center"><em>Tech Stack:</em> Python, FastAPI, RAG, FAISS, LangChain, Docker, Playwright, Faster-Whisper</p>
 
 <p align="center"> A privacy-focused clinical assistant that joins Google Meet calls locally to transcribe audio, generate automated post-call AI summaries using medical guidelines via RAG, and provide live AI clinical insights via a Chrome extension and a LangGraph "Ask AI" chatbot to query patient data.</p>
 
@@ -46,7 +44,6 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 <h4 align="center"><a href="https://github.com/essam2414/Trader">Trader</a></h4>
 
-<p align="center"><em>Tech Stack:</em> Python, APIs, Data Analytics</p>
 
 <p align="center"> A custom stock market trading and analysis application that integrates market data feeds to track real-time momentum, process news sentiment, calculate automated support and resistance levels, and generate dynamic AI buy scores for a customized equity watchlist.</p>
 
@@ -58,7 +55,6 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 <h4 align="center"><a href="https://github.com/essam2414/Title-Generator">Title-Generator</a></h4>
 
-<p align="center"><em>Tech Stack:</em> Python / Software Utilities</p>
 
 <p align="center"> A prototype app for creating burn-in title ideas for social media short-form videos. Upload a B-roll clip, such as footage from an Instagram creator, and the app analyses its visuals, finds similar reel examples, and suggests on-screen title text that fits the footage.</p>
 
