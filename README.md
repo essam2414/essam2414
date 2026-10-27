@@ -19,7 +19,7 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 ### 💡 Featured Projects
 
 <img align="right" src="./ai-kids-club-preview.png" width="480" height="240" alt="AI Kids Club dashboard preview">
-
+<br>
 <h4 align="left"><a href="https://aikidsclub.info/">AI Kids Club</a> <em>(Under Development)</em></h4>
 
 
