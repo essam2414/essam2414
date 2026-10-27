@@ -36,7 +36,7 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 <p align="center"><em>Tech Stack:</em> Python, FastAPI, RAG, FAISS, LangChain, Docker, Playwright, Faster-Whisper</p>
 
-<p align="center"> A privacy-focused clinical assistant that joins Google Meet calls locally to transcribe audio, generate automated post-call and live in-call summaries using medical guidelines via RAG, and provide live clinical insights via a Chrome extension and a LangGraph "Ask AI" chatbot.</p>
+<p align="center"> A privacy-focused clinical assistant that joins Google Meet calls locally to transcribe audio, generate automated post-call AI summaries using medical guidelines via RAG, and provide live AI clinical insights via a Chrome extension and a LangGraph "Ask AI" chatbot to query patient data.</p>
 
 <br clear="all">
 <br>
