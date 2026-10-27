@@ -16,49 +16,47 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 ---
 
-### 💡 Featured Projects
+### Featured Projects
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle" style="border: none;"><strong><a href="https://aikidsclub.info/">AI Kids Club</a></strong><br><em>Under Development</em></td>
-    <td align="center" valign="middle" style="border: none;"><img src="./ai-kids-club.png" alt="AI Kids Club dashboard preview" width="700"></td>
-  </tr>
-</table>
-* *Tech Stack:* Next.js, TypeScript, Supabase (PostgreSQL), Tailwind CSS, Vercel
-* *Overview:* A gamified web learning platform designed to teach children and young learners aged 7–18 the fundamentals of artificial intelligence through interactive, mission-based challenges, engaging 2D avatar systems, and dynamic progress maps.
+<img align="right" width="480" src="./ai-kids-club.png" alt="AI Kids Club dashboard preview">
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle" style="border: none;"><img src="./med-assist.png" alt="Med-Assist clinical consultation dashboard" width="700"></td>
-    <td align="center" valign="middle" style="border: none;">
-      <h4><a href="https://github.com/essam2414/Med-Assist">Med-Assist (AI Clinical Online Consultation App)</a></h4>
-      <p><em>Tech Stack:</em> Python, FastAPI, RAG, FAISS, LangChain, Docker, Playwright, Faster-Whisper</p>
-      <p><em>Overview:</em> A privacy-focused clinical assistant that joins Google Meet calls locally to transcribe audio, generate automated post-call and live in-call summaries using medical guidelines via RAG, and provide live clinical insights via a Chrome extension and a LangGraph "Ask AI" chatbot.</p>
-    </td>
-  </tr>
-</table>
+<h4 align="center"><a href="https://aikidsclub.info/">AI Kids Club</a> <em>(Under Development)</em></h4>
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle" style="border: none;">
-      <h4><a href="https://github.com/essam2414/Trader">Trader</a></h4>
-      <p><em>Tech Stack:</em> Python, APIs, Data Analytics</p>
-      <p><em>Overview:</em> A custom stock market trading and analysis application that integrates market data feeds to track real-time momentum, process news sentiment, calculate automated support and resistance levels, and generate dynamic AI buy scores for a customized equity watchlist.</p>
-    </td>
-    <td align="center" valign="middle" style="border: none;"><img src="./trader.png" alt="Trader investment dashboard" width="700"></td>
-  </tr>
-</table>
+<p align="center"><em>Tech Stack:</em> Next.js, TypeScript, Supabase (PostgreSQL), Tailwind CSS, Vercel</p>
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle" style="border: none;"><img src="./title-generator.png" alt="Title Generator app showing video and generated hook titles" width="700"></td>
-    <td align="center" valign="middle" style="border: none;">
-      <h4><a href="https://github.com/essam2414/Title-Generator">Title-Generator</a></h4>
-      <p><em>Tech Stack:</em> Python / Software Utilities</p>
-      <p><em>Overview:</em> A prototype app for creating burn-in title ideas for social media short-form videos. Upload a B-roll clip, such as footage from an Instagram creator, and the app analyses its visuals, finds similar reel examples, and suggests on-screen title text that fits the footage.</p>
-    </td>
-  </tr>
-</table>
+<p align="center"><em>Overview:</em> A gamified web learning platform designed to teach children and young learners aged 7?18 the fundamentals of artificial intelligence through interactive, mission-based challenges, engaging 2D avatar systems, and dynamic progress maps.</p>
+
+<br clear="all">
+
+<img align="left" width="480" src="./med-assist.png" alt="Med-Assist clinical consultation dashboard">
+
+<h4 align="center"><a href="https://github.com/essam2414/Med-Assist">Med-Assist (AI Clinical Online Consultation App)</a></h4>
+
+<p align="center"><em>Tech Stack:</em> Python, FastAPI, RAG, FAISS, LangChain, Docker, Playwright, Faster-Whisper</p>
+
+<p align="center"><em>Overview:</em> A privacy-focused clinical assistant that joins Google Meet calls locally to transcribe audio, generate automated post-call and live in-call summaries using medical guidelines via RAG, and provide live clinical insights via a Chrome extension and a LangGraph "Ask AI" chatbot.</p>
+
+<br clear="all">
+
+<img align="right" width="480" src="./trader.png" alt="Trader investment dashboard">
+
+<h4 align="center"><a href="https://github.com/essam2414/Trader">Trader</a></h4>
+
+<p align="center"><em>Tech Stack:</em> Python, APIs, Data Analytics</p>
+
+<p align="center"><em>Overview:</em> A custom stock market trading and analysis application that integrates market data feeds to track real-time momentum, process news sentiment, calculate automated support and resistance levels, and generate dynamic AI buy scores for a customized equity watchlist.</p>
+
+<br clear="all">
+
+<img align="left" width="480" src="./title-generator.png" alt="Title Generator app showing video and generated hook titles">
+
+<h4 align="center"><a href="https://github.com/essam2414/Title-Generator">Title-Generator</a></h4>
+
+<p align="center"><em>Tech Stack:</em> Python / Software Utilities</p>
+
+<p align="center"><em>Overview:</em> A prototype app for creating burn-in title ideas for social media short-form videos. Upload a B-roll clip, such as footage from an Instagram creator, and the app analyses its visuals, finds similar reel examples, and suggests on-screen title text that fits the footage.</p>
+
+<br clear="all">
 
 ---
 
