@@ -20,10 +20,10 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 <img align="right" width="480" src="./ai-kids-club.png" alt="AI Kids Club dashboard preview">
 
-<h4 align="center"><a href="https://aikidsclub.info/">AI Kids Club</a> <em>(Under Development)</em></h4>
+<h4 align="left"><a href="https://aikidsclub.info/">AI Kids Club</a> <em>(Under Development)</em></h4>
 
 
-<p align="center"> A gamified web learning platform designed to teach children ages 7-18 the fundamentals of artificial intelligence through interactive, mission-based challenges, engaging 2D avatar systems, and dynamic progress maps.</p>
+<p align="left">A gamified web learning platform designed to teach children ages 7-18 the fundamentals of artificial intelligence through interactive, mission-based challenges, engaging 2D avatar systems, and dynamic progress maps.</p>
 
 <br clear="all">
 <br>
@@ -31,10 +31,10 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 <img align="left" width="480" src="./med-assist.png" alt="Med-Assist clinical consultation dashboard">
 
-<h4 align="center"><a href="https://github.com/essam2414/Med-Assist">Med-Assist (AI Clinical Online Consultation App)</a></h4>
+<h4 align="left"><a href="https://github.com/essam2414/Med-Assist">Med-Assist (AI Clinical Online Consultation App)</a></h4>
 
 
-<p align="center"> A privacy-focused clinical assistant that joins Google Meet calls locally to transcribe audio, generate automated post-call AI summaries using medical guidelines via RAG, and provide live AI clinical insights via a Chrome extension and a LangGraph "Ask AI" chatbot to query patient data.</p>
+<p align="left">A privacy-focused clinical assistant that joins Google Meet calls locally to transcribe audio, generate automated post-call AI summaries using medical guidelines via RAG, and provide live AI clinical insights via a Chrome extension and a LangGraph "Ask AI" chatbot to query patient data.</p>
 
 <br clear="all">
 <br>
@@ -42,10 +42,10 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 <img align="right" width="480" src="./trader.png" alt="Trader investment dashboard">
 
-<h4 align="center"><a href="https://github.com/essam2414/Trader">Trader</a></h4>
+<h4 align="left"><a href="https://github.com/essam2414/Trader">Trader</a></h4>
 
 
-<p align="center"> A custom stock market trading and analysis application that integrates market data feeds to track real-time momentum, process news sentiment, calculate automated support and resistance levels, and generate dynamic AI buy scores for a customized equity watchlist.</p>
+<p align="left">A custom stock market trading and analysis application that integrates market data feeds to track real-time momentum, process news sentiment, calculate automated support and resistance levels, and generate dynamic AI buy scores for a customized equity watchlist.</p>
 
 <br clear="all">
 <br>
@@ -53,10 +53,10 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 <img align="left" width="480" src="./title-generator.png" alt="Title Generator app showing video and generated hook titles">
 
-<h4 align="center"><a href="https://github.com/essam2414/Title-Generator">Title-Generator</a></h4>
+<h4 align="left"><a href="https://github.com/essam2414/Title-Generator">Title-Generator</a></h4>
 
 
-<p align="center"> A prototype app for creating burn-in title ideas for social media short-form videos. Upload a B-roll clip, such as footage from an Instagram creator, and the app analyses its visuals, finds similar reel examples, and suggests on-screen title text that fits the footage.</p>
+<p align="left">A prototype app for creating burn-in title ideas for social media short-form videos. Upload a B-roll clip, such as footage from an Instagram creator, and the app analyses its visuals, finds similar reel examples, and suggests on-screen title text that fits the footage.</p>
 
 <br clear="all">
 <br>
