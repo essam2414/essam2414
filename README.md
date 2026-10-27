@@ -2,8 +2,6 @@
 
 I am a Computer Science and Artificial Intelligence graduate with First-Class Honours from the University of Birmingham. I’m passionate about building robust full-stack applications, intelligent AI solutions, and developer tools that solve real-world problems. 
 
----
-
 ### 🚀 What I'm Doing Now
 * **Software Engineer at London Gulf Nexus:** Building the MVP for a gamified web platform that teaches AI fundamentals to young learners through interactive missions.
 * **Building & Shipping:** Constantly working on personal software engineering projects, ranging from clinical AI systems to algorithmic stock trading tools.
@@ -26,7 +24,7 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 #### [Med-Assist (AI Clinical Online Consultation App)](https://github.com/essam2414/Med-Assist)
 * *Tech Stack:* Python, FastAPI, RAG, FAISS, LangChain, Docker, Playwright, Faster-Whisper
-* *Overview:* A privacy-focused clinical assistant that joins Google Meet calls locally to transcribe audio, generate automated post-call summaries using medical guidelines via RAG, and provide live clinical insights via a Chrome extension and a LangGraph "Ask AI" chatbot.
+* *Overview:* A privacy-focused clinical assistant that joins Google Meet calls locally to transcribe audio, generate automated post-call and live in-call summaries using medical guidelines via RAG, and provide live clinical insights via a Chrome extension and a LangGraph "Ask AI" chatbot.
 
 #### [Trader](https://github.com/essam2414/Trader)
 * *Tech Stack:* Python, APIs, Data Analytics
@@ -34,17 +32,17 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 #### [Title-Generator](https://github.com/essam2414/Title-Generator)
 * *Tech Stack:* Python / Software Utilities
-* *Overview:* A streamlined developer utility designed to automatically generate and format clean, contextual titles for content and repositories, ensuring consistent organization across projects and documentation pipelines.
+* *Overview:* A prototype app for creating burn-in title ideas for social media short-form videos. Upload a B-roll clip, such as footage from an Instagram creator, and the app analyses its visuals, finds similar reel examples, and suggests on-screen title text that fits the footage.
 
 ---
 
 ### 👨‍💻 Experience
 * **Software Engineer** | *London Gulf Nexus* (April 2026 – Present)
   * Developing end-to-end features using Next.js, TypeScript, Supabase, and Vercel for an interactive EdTech platform.
-* **AI Intern** | *Zircon Tech* (August 2024 – September 2024)
-  * Leveraged open-source AI models (ViT, ResNet) from Hugging Face to research and assist in building a brain tumor (GBM) image classifier from MRI medical data.
 * **Student Ambassador** | *University of Birmingham* (June 2025 – January 2026)
   * Guided university visitors, facilitated student activities, and managed event logistics for large-scale graduations and open days.
+* **AI Intern** | *Zircon Tech* (August 2024 – September 2024)
+  * Leveraged open-source AI models (ViT, ResNet) from Hugging Face to research and assist in building a brain tumor (GBM) image classifier from MRI medical data.
 
 ---
 
