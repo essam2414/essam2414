@@ -18,7 +18,7 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 ### 💡 Featured Projects
 
-<img align="right" width="480" src="./ai-kids-club.png" alt="AI Kids Club dashboard preview">
+<img align="right" src="./ai-kids-club-preview.png" width="480" height="240" alt="AI Kids Club dashboard preview">
 
 <h4 align="left"><a href="https://aikidsclub.info/">AI Kids Club</a> <em>(Under Development)</em></h4>
 
@@ -29,7 +29,7 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 <br>
 <br>
 
-<img align="left" width="480" src="./med-assist.png" alt="Med-Assist clinical consultation dashboard">
+<img align="left" src="./med-assist-preview.png" width="480" height="240" alt="Med-Assist clinical consultation dashboard">
 
 <h4 align="left"><a href="https://github.com/essam2414/Med-Assist">Med-Assist (AI Clinical Online Consultation App)</a></h4>
 
@@ -40,7 +40,7 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 <br>
 <br>
 
-<img align="right" width="480" src="./trader.png" alt="Trader investment dashboard">
+<img align="right" src="./trader-preview.png" width="480" height="240" alt="Trader investment dashboard">
 
 <h4 align="left"><a href="https://github.com/essam2414/Trader">Trader</a></h4>
 
@@ -51,7 +51,7 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 <br>
 <br>
 
-<img align="left" width="480" src="./title-generator.png" alt="Title Generator app showing video and generated hook titles">
+<img align="left" src="./title-generator-preview.png" width="480" height="240" alt="Title Generator app showing video and generated hook titles">
 
 <h4 align="left"><a href="https://github.com/essam2414/Title-Generator">Title-Generator</a></h4>
 
