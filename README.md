@@ -23,7 +23,7 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 <h4 align="center"><a href="https://aikidsclub.info/">AI Kids Club</a> <em>(Under Development)</em></h4>
 
 
-<p align="center"> A gamified web learning platform designed to teach children and young learners aged 7?18 the fundamentals of artificial intelligence through interactive, mission-based challenges, engaging 2D avatar systems, and dynamic progress maps.</p>
+<p align="center"> A gamified web learning platform designed to teach children ages 7-18 the fundamentals of artificial intelligence through interactive, mission-based challenges, engaging 2D avatar systems, and dynamic progress maps.</p>
 
 <br clear="all">
 <br>
