@@ -20,19 +20,19 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 ### 💡 Featured Projects
 
-#### 🤖 [AI Kids Club](https://aikidsclub.info/) *(Under Development)*
+#### [AI Kids Club](https://aikidsclub.info/) *(Under Development)*
 * *Tech Stack:* Next.js, TypeScript, Supabase (PostgreSQL), Tailwind CSS, Vercel
 * *Overview:* A gamified web learning platform designed to teach children and young learners aged 7–18 the fundamentals of artificial intelligence through interactive, mission-based challenges, engaging 2D avatar systems, and dynamic progress maps.
 
-#### 🩺 [Med-Assist (AI Clinical Online Consultation App)](https://github.com/essam2414/Med-Assist)
+#### [Med-Assist (AI Clinical Online Consultation App)](https://github.com/essam2414/Med-Assist)
 * *Tech Stack:* Python, FastAPI, RAG, FAISS, LangChain, Docker, Playwright, Faster-Whisper
 * *Overview:* A privacy-focused clinical assistant that joins Google Meet calls locally to transcribe audio, generate automated post-call summaries using medical guidelines via RAG, and provide live clinical insights via a Chrome extension and a LangGraph "Ask AI" chatbot.
 
-#### 📈 [Trader](https://github.com/essam2414/Trader)
+#### [Trader](https://github.com/essam2414/Trader)
 * *Tech Stack:* Python, APIs, Data Analytics
 * *Overview:* A custom stock market trading and analysis application that integrates market data feeds to track real-time momentum, process news sentiment, calculate automated support and resistance levels, and generate dynamic AI buy scores for a customized equity watchlist.
 
-#### 🔤 [Title-Generator](https://github.com/essam2414/Title-Generator)
+#### [Title-Generator](https://github.com/essam2414/Title-Generator)
 * *Tech Stack:* Python / Software Utilities
 * *Overview:* A streamlined developer utility designed to automatically generate and format clean, contextual titles for content and repositories, ensuring consistent organization across projects and documentation pipelines.
 
