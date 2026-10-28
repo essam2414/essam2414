@@ -42,7 +42,7 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 <p align="left">A privacy-focused clinical assistant that joins Google Meet calls locally to transcribe audio, generate automated post-call AI summaries using medical guidelines via RAG, and provide live AI clinical insights via a Chrome extension and a LangGraph "Ask AI" chatbot to query patient data.</p>
 
-* **Developed as my University of Birmingham final year project, receiving a grade of 82% (First Class).**
+**Developed as my University of Birmingham final year project, receiving a grade of 82% (First Class).**
 
 <br clear="all">
 <br>
