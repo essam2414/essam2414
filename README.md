@@ -16,6 +16,12 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 
 ---
 
+### 🏆 Honours & Awards
+
+* **University of Birmingham Employability Award with Distinction** (2026) — Recognized for exceptional extracurricular achievement, leadership, and professional development.
+
+---
+
 ### 💡 Featured Projects
 
 <img align="right" src="./ai-kids-club-preview.png" width="480" height="240" alt="AI Kids Club dashboard preview">
