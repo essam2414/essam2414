@@ -40,7 +40,9 @@ I am a Computer Science and Artificial Intelligence graduate with First-Class Ho
 <h4 align="left"><a href="https://github.com/essam2414/Med-Assist">Med-Assist (AI Clinical Online Consultation App)</a></h4>
 
 
-<p align="left">A privacy-focused clinical assistant that joins Google Meet calls locally to transcribe audio, generate automated post-call AI summaries using medical guidelines via RAG, and provide live AI clinical insights via a Chrome extension and a LangGraph "Ask AI" chatbot to query patient data. * **Developed as my University of Birmingham final year project, receiving a grade of 82% (First-Class).**</p>
+<p align="left">A privacy-focused clinical assistant that joins Google Meet calls locally to transcribe audio, generate automated post-call AI summaries using medical guidelines via RAG, and provide live AI clinical insights via a Chrome extension and a LangGraph "Ask AI" chatbot to query patient data.</p>
+
+* **Developed as my University of Birmingham final year project, receiving a grade of 82% (First Class).**
 
 <br clear="all">
 <br>
